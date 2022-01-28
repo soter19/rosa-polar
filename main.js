@@ -21,7 +21,7 @@ var amplitude = 250;
 
 // Steps
 var theta_step = 0.01,
-    anim_steps = 50;
+    anim_steps = 5;
 
 
 function setup(callback) {
